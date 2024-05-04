@@ -7,8 +7,7 @@ WoltApplication is a web application developed using ASP.NET Core for managing f
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#license)
 
 ## Features
 
