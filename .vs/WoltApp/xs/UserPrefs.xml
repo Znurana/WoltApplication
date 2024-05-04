@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2CF4768E-7B02-411D-8F30-2755A454CAC8}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WoltApp.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WoltApp.API/appsettings.json">
+    <Files>
+      <File FileName="WoltApp.DAL/Repository/FoodRepo.cs" />
+      <File FileName="WoltApp.DAL/Repository/FoodRepository.cs" />
+      <File FileName="WoltApp.API/Program.cs" />
+      <File FileName="WoltApp.API/Controllers/FoodsController2.cs" />
+      <File FileName="WoltApp.API/Controllers/CategoryController.cs" />
+      <File FileName="WoltApp.API/Controllers/FoodsController.cs" />
+      <File FileName="WoltApp.API/Controllers/FoodsController3.cs" />
+      <File FileName="WoltApp.BLL/Mapping/CustomMap.cs" />
+      <File FileName="WoltApp.BLL/Services/FoodService.cs" />
+      <File FileName="WoltApp.BLL/Services/CategoryService.cs" />
+      <File FileName="WoltApp.BLL/Services/Contracts/IFoodService.cs" />
+      <File FileName="WoltApp.BLL/Services/Contracts/ICategoryService.cs" />
+      <File FileName="WoltApp.DAL/Data/WoltDbContext.cs" />
+      <File FileName="WoltApp.DAL/Repository/Contracts/ICategoryRepository.cs" />
+      <File FileName="WoltApp.DAL/Repository/Contracts/IFoodRepository.cs" />
+      <File FileName="WoltApp.API/appsettings.json" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WoltApp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

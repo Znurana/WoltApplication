@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xre3brBk9Cxe0b7ey+DgunUt/sH5nXObw2uY8EgfXlc=",
+  "Source": "WoltApp.API",
+  "BasePath": "_content/WoltApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

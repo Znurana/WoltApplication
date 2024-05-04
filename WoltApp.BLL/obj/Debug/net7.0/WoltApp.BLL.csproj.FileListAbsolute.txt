@@ -1,0 +1,15 @@
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.csproj.AssemblyReference.cache
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.AssemblyInfoInputs.cache
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.AssemblyInfo.cs
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.csproj.CoreCompileInputs.cache
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/bin/Debug/net7.0/WoltApp.BLL.deps.json
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/bin/Debug/net7.0/WoltApp.BLL.dll
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/bin/Debug/net7.0/WoltApp.BLL.pdb
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/bin/Debug/net7.0/WoltApp.DAL.dll
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/bin/Debug/net7.0/WoltApp.DAL.pdb
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.csproj.CopyComplete
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.dll
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/refint/WoltApp.BLL.dll
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/WoltApp.BLL.pdb
+/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/Debug/net7.0/ref/WoltApp.BLL.dll

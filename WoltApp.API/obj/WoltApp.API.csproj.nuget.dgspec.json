@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.API/WoltApp.API.csproj": {}
+  },
+  "projects": {
+    "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.API/WoltApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.API/WoltApp.API.csproj",
+        "projectName": "WoltApp.API",
+        "projectPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.API/WoltApp.API.csproj",
+        "packagesPath": "/Users/nuranazeynalli/.nuget/packages/",
+        "outputPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nuranazeynalli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.315/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/WoltApp.BLL.csproj": {
+                "projectPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/WoltApp.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/WoltApp.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/WoltApp.BLL.csproj",
+        "projectName": "WoltApp.BLL",
+        "projectPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/WoltApp.BLL.csproj",
+        "packagesPath": "/Users/nuranazeynalli/.nuget/packages/",
+        "outputPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nuranazeynalli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.DAL/WoltApp.DAL.csproj": {
+                "projectPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.DAL/WoltApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.DAL/WoltApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.DAL/WoltApp.DAL.csproj",
+        "projectName": "WoltApp.DAL",
+        "projectPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.DAL/WoltApp.DAL.csproj",
+        "packagesPath": "/Users/nuranazeynalli/.nuget/packages/",
+        "outputPath": "/Users/nuranazeynalli/Desktop/Project/WoltApp/WoltApp.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nuranazeynalli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
